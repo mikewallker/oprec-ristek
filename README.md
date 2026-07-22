@@ -2,7 +2,10 @@
 
 Bus arrival prediction system built from raw GPS data of Universitas Indonesia's Bis Kuning (campus shuttle) without ground-truth labels. Because the dataset intentionally omitted the target variable (Real Time Arrival or RTA), the primary challenge was engineering this target from raw GPS and time series data.
 
+![People waiting for Bikun](assets/people_wait_for_bikun.jpg)
+
 ---
+
 
 ## Objective
 
